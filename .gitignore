@@ -8,3 +8,4 @@
 *.dll
 *.resources
 packages/
+.vs/**
